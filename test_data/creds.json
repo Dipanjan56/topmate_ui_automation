@@ -2,7 +2,7 @@
   "gmail": {
     "sender": {
       "email_id": "testAutomationDK@gmail.com",
-      "password": "wkkvenglmumjjvsq"
+      "password": "key"
     },
     "receiver": [
       "dipanjan56@gmail.com",
@@ -14,7 +14,7 @@
   "aws": {
     "user_id": "qa_automation_user",
     "bucket": "topmate-qa-automation",
-    "access_key": "AKIAXXBHRVOS2VGNOWP6",
-    "secret_key": "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"
+    "access_key": "key",
+    "secret_key": "key"
   }
 }
